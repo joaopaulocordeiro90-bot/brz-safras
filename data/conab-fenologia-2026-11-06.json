@@ -1,0 +1,75 @@
+{
+  "fonte": "CONAB - Fenologia das Lavouras (planilha 31/10 a 06/11/2026)",
+  "semana_inicio": "2026-10-31",
+  "semana_fim": "2026-11-06",
+  "publicado": "2026-11-09",
+  "unidade": "porcentagem da area semeada (distribuicao fenologica por cultura)",
+  "observacao": "Percentuais fenologicos ponderados pela area semeada dos estados listados; cobertura menor que 100% da area do Brasil. Fonte complementar para auditoria, sem alterar a UI.",
+  "culturas": {
+    "Arroz": {
+      "safra": "2026/27",
+      "plantio_pct": 63.1,
+      "cobertura_area_pct": 81,
+      "distribuicao": {
+        "emergencia": 26.0437,
+        "vegetativo": 73.1536,
+        "floracao": 0.5696,
+        "enchimento": 0.0976,
+        "maturacao": 0.0759,
+        "colheita": 0.0596
+      }
+    },
+    "Feijão 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 44.3,
+      "cobertura_area_pct": 71,
+      "distribuicao": {
+        "emergencia": 29.494,
+        "vegetativo": 52.653,
+        "floracao": 3.523,
+        "enchimento": 1.148,
+        "maturacao": 3.954,
+        "colheita": 9.227
+      }
+    },
+    "Milho 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 51.2,
+      "cobertura_area_pct": 72,
+      "distribuicao": {
+        "emergencia": 19.39,
+        "vegetativo": 77.158,
+        "floracao": 3.451,
+        "enchimento": 0,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Soja": {
+      "safra": "2026/27",
+      "plantio_pct": 66.8,
+      "cobertura_area_pct": 95,
+      "distribuicao": {
+        "emergencia": 22.732,
+        "vegetativo": 76.572,
+        "floracao": 0.696,
+        "enchimento": 0,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Trigo": {
+      "safra": "2026",
+      "plantio_pct": 100,
+      "cobertura_area_pct": 99.6,
+      "distribuicao": {
+        "emergencia": 0,
+        "vegetativo": 0,
+        "floracao": 0,
+        "enchimento": 5.773,
+        "maturacao": 15.86,
+        "colheita": 78.366
+      }
+    }
+  }
+}
