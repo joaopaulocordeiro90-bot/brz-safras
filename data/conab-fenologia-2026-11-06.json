@@ -4,7 +4,7 @@
   "semana_fim": "2026-11-06",
   "publicado": "2026-11-09",
   "unidade": "porcentagem da area semeada (distribuicao fenologica por cultura)",
-  "observacao": "Percentuais fenologicos ponderados pela area semeada dos estados listados; cobertura menor que 100% da area do Brasil. Fonte complementar para auditoria, sem alterar a UI.",
+  "observacao": "Distribuicao fenologica ponderada pela area semeada das UFs selecionadas, com cobertura conforme planilha CONAB. Valores em %, preservando casas decimais originais da fonte. Dados complementares; interface nao alterada.",
   "culturas": {
     "Arroz": {
       "safra": "2026/27",
@@ -24,12 +24,12 @@
       "plantio_pct": 44.3,
       "cobertura_area_pct": 71,
       "distribuicao": {
-        "emergencia": 29.494,
+        "emergencia": 29.4942,
         "vegetativo": 52.653,
-        "floracao": 3.523,
-        "enchimento": 1.148,
-        "maturacao": 3.954,
-        "colheita": 9.227
+        "floracao": 3.5233,
+        "enchimento": 1.1479,
+        "maturacao": 3.9545,
+        "colheita": 9.2271
       }
     },
     "Milho 1ª": {
@@ -38,8 +38,8 @@
       "cobertura_area_pct": 72,
       "distribuicao": {
         "emergencia": 19.39,
-        "vegetativo": 77.158,
-        "floracao": 3.451,
+        "vegetativo": 77.1585,
+        "floracao": 3.4515,
         "enchimento": 0,
         "maturacao": 0,
         "colheita": 0
@@ -50,9 +50,9 @@
       "plantio_pct": 66.8,
       "cobertura_area_pct": 95,
       "distribuicao": {
-        "emergencia": 22.732,
-        "vegetativo": 76.572,
-        "floracao": 0.696,
+        "emergencia": 22.7319,
+        "vegetativo": 76.5723,
+        "floracao": 0.6958,
         "enchimento": 0,
         "maturacao": 0,
         "colheita": 0
@@ -66,9 +66,9 @@
         "emergencia": 0,
         "vegetativo": 0,
         "floracao": 0,
-        "enchimento": 5.773,
-        "maturacao": 15.86,
-        "colheita": 78.366
+        "enchimento": 5.7732,
+        "maturacao": 15.8605,
+        "colheita": 78.3663
       }
     }
   }
