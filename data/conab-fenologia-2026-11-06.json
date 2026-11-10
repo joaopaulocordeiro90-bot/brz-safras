@@ -1,0 +1,75 @@
+{
+  "fonte": "CONAB - Fenologia das Lavouras (planilha 31/10 a 06/11/2026)",
+  "semana_inicio": "2026-10-31",
+  "semana_fim": "2026-11-06",
+  "publicado": "2026-11-09",
+  "unidade": "porcentagem da area semeada (distribuicao fenologica por cultura)",
+  "observacao": "Distribuicao fenologica ponderada pela area semeada das UFs selecionadas, com cobertura conforme planilha CONAB. Valores em %, preservando casas decimais originais da fonte. Dados complementares; interface nao alterada.",
+  "culturas": {
+    "Arroz": {
+      "safra": "2026/27",
+      "plantio_pct": 63.1,
+      "cobertura_area_pct": 81,
+      "distribuicao": {
+        "emergencia": 26.0437,
+        "vegetativo": 73.1536,
+        "floracao": 0.5696,
+        "enchimento": 0.0976,
+        "maturacao": 0.0759,
+        "colheita": 0.0596
+      }
+    },
+    "Feijão 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 44.3,
+      "cobertura_area_pct": 71,
+      "distribuicao": {
+        "emergencia": 29.4942,
+        "vegetativo": 52.653,
+        "floracao": 3.5233,
+        "enchimento": 1.1479,
+        "maturacao": 3.9545,
+        "colheita": 9.2271
+      }
+    },
+    "Milho 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 51.2,
+      "cobertura_area_pct": 72,
+      "distribuicao": {
+        "emergencia": 19.39,
+        "vegetativo": 77.1585,
+        "floracao": 3.4515,
+        "enchimento": 0,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Soja": {
+      "safra": "2026/27",
+      "plantio_pct": 66.8,
+      "cobertura_area_pct": 95,
+      "distribuicao": {
+        "emergencia": 22.7319,
+        "vegetativo": 76.5723,
+        "floracao": 0.6958,
+        "enchimento": 0,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Trigo": {
+      "safra": "2026",
+      "plantio_pct": 100,
+      "cobertura_area_pct": 99.6,
+      "distribuicao": {
+        "emergencia": 0,
+        "vegetativo": 0,
+        "floracao": 0,
+        "enchimento": 5.7732,
+        "maturacao": 15.8605,
+        "colheita": 78.3663
+      }
+    }
+  }
+}
