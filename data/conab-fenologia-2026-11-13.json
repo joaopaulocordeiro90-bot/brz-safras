@@ -2,7 +2,7 @@
   "fonte": "CONAB — Fenologia das Lavouras, semana de 07 a 13/11/2026 (planilha oficial fornecida)",
   "semana_inicio": "2026-11-07",
   "semana_fim": "2026-11-13",
-  "publicado": "2026-11-17",
+  "publicado": "2026-11-16",
   "unidade": "porcentagem da area semeada (distribuicao fenologica por cultura)",
   "observacao": "Distribuição por fases fenológicas, ponderada pela área semeada das UFs selecionadas; cobertura em % da área brasileira declarada pela fonte. Não extrapolar a distribuição para a totalidade da área. Preservação integral dos valores e da fonte.",
   "culturas": {
