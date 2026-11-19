@@ -1,0 +1,75 @@
+{
+  "fonte": "CONAB — Fenologia das Lavouras, semana de 07 a 13/11/2026 (planilha oficial fornecida)",
+  "semana_inicio": "2026-11-07",
+  "semana_fim": "2026-11-13",
+  "publicado": "2026-11-16",
+  "unidade": "porcentagem da area semeada (distribuicao fenologica por cultura)",
+  "observacao": "Distribuição por fases fenológicas, ponderada pela área semeada das UFs selecionadas; cobertura em % da área brasileira declarada pela fonte. Não extrapolar a distribuição para a totalidade da área. Preservação integral dos valores e da fonte.",
+  "culturas": {
+    "Arroz": {
+      "safra": "2026/27",
+      "plantio_pct": 70.4,
+      "cobertura_area_pct": 84,
+      "distribuicao": {
+        "emergencia": 24.8943,
+        "vegetativo": 73.5671,
+        "floracao": 0.6721,
+        "enchimento": 0.3209,
+        "maturacao": 0.1726,
+        "colheita": 0.373
+      }
+    },
+    "Feijão 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 53.1,
+      "cobertura_area_pct": 70,
+      "distribuicao": {
+        "emergencia": 21.6561,
+        "vegetativo": 58.0736,
+        "floracao": 7.094,
+        "enchimento": 1.5126,
+        "maturacao": 2.9332,
+        "colheita": 8.7305
+      }
+    },
+    "Milho 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 57.2,
+      "cobertura_area_pct": 77,
+      "distribuicao": {
+        "emergencia": 13.7676,
+        "vegetativo": 81.7572,
+        "floracao": 4.2794,
+        "enchimento": 0.1958,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Soja": {
+      "safra": "2026/27",
+      "plantio_pct": 75,
+      "cobertura_area_pct": 98,
+      "distribuicao": {
+        "emergencia": 17.057,
+        "vegetativo": 78.7262,
+        "floracao": 3.9236,
+        "enchimento": 0.2933,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Trigo": {
+      "safra": "2026",
+      "plantio_pct": 100,
+      "cobertura_area_pct": 99.6,
+      "distribuicao": {
+        "emergencia": 0,
+        "vegetativo": 0,
+        "floracao": 0,
+        "enchimento": 2.4772,
+        "maturacao": 8.7494,
+        "colheita": 88.7734
+      }
+    }
+  }
+}
