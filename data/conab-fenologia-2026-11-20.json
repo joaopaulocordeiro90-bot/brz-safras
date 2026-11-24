@@ -1,0 +1,88 @@
+{
+  "fonte": "CONAB — Fenologia das Lavouras, 14 a 20/11/2026 (planilha oficial fornecida)",
+  "semana_inicio": "2026-11-14",
+  "semana_fim": "2026-11-20",
+  "publicado": "2026-11-23",
+  "unidade": "porcentagem da área semeada (distribuição fenológica ponderada)",
+  "observacao": "Cobertura específica das UFs com fenologia informada; algodão: somente MG (2% da área brasileira), plantio agregado de 0,0417% na planilha de progresso (0,0% quando arredondado a uma casa). Formação de maçãs é a fase correspondente do algodão. Percentuais preservados conforme planilha, pequenas diferenças de arredondamento.",
+  "culturas": {
+    "Algodão": {
+      "safra": "2026/27",
+      "plantio_pct": 0.0417,
+      "cobertura_area_pct": 2,
+      "distribuicao": {
+        "emergencia": 100,
+        "vegetativo": 0,
+        "floracao": 0,
+        "formacao_de_macas": 0,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Arroz": {
+      "safra": "2026/27",
+      "plantio_pct": 75.9,
+      "cobertura_area_pct": 90,
+      "distribuicao": {
+        "emergencia": 15.5663,
+        "vegetativo": 83.0011,
+        "floracao": 0.5797,
+        "enchimento": 0.2931,
+        "maturacao": 0.1381,
+        "colheita": 0.4217
+      }
+    },
+    "Feijão 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 57.9,
+      "cobertura_area_pct": 70,
+      "distribuicao": {
+        "emergencia": 9.0671,
+        "vegetativo": 66.1996,
+        "floracao": 10.8466,
+        "enchimento": 2.9381,
+        "maturacao": 0.6768,
+        "colheita": 10.2719
+      }
+    },
+    "Milho 1ª": {
+      "safra": "2026/27",
+      "plantio_pct": 65.9,
+      "cobertura_area_pct": 84,
+      "distribuicao": {
+        "emergencia": 11.4806,
+        "vegetativo": 78.3091,
+        "floracao": 8.5234,
+        "enchimento": 1.687,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Soja": {
+      "safra": "2026/27",
+      "plantio_pct": 82.9,
+      "cobertura_area_pct": 98,
+      "distribuicao": {
+        "emergencia": 11.8189,
+        "vegetativo": 75.9044,
+        "floracao": 9.7365,
+        "enchimento": 2.5402,
+        "maturacao": 0,
+        "colheita": 0
+      }
+    },
+    "Trigo": {
+      "safra": "2026",
+      "plantio_pct": 100,
+      "cobertura_area_pct": 99.6,
+      "distribuicao": {
+        "emergencia": 0,
+        "vegetativo": 0,
+        "floracao": 0,
+        "enchimento": 1.2106,
+        "maturacao": 3.426,
+        "colheita": 95.3634
+      }
+    }
+  }
+}
